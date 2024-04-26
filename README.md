@@ -9,7 +9,10 @@ Welcome to my GitHub repository, the **Google Learning Program**. This repositor
 
 ## **Content** 📚
 
-In this repository, you will find a wide range of materials related to Google's courses and certifications. Here are some key contents:- Lectures, slides, and study materials covering various topics and domains offered by Google.- Complete text content of the courses, including detailed explanations, examples, and exercises.- Supplementary resources such as code samples, project templates, and reference materials to support your learning journey.
+In this repository, you will find a wide range of materials related to Google's courses and certifications. Here are some key contents:
+- Lectures, slides, and study materials covering various topics and domains offered by Google.
+- Complete text content of the courses, including detailed explanations, examples, and exercises.
+- Supplementary resources such as code samples, project templates, and reference materials to support your learning journey.
 
 ## **Purpose** 🎯
 
