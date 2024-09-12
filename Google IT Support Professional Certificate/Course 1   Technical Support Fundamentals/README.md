@@ -1,5 +1,3 @@
-# Course Overview
-
 🎓🖥️ Welcome to the first course in the series that aims to prepare you for a role as an entry-level IT Support Specialist. In this course, we'll delve into the exciting world of Information Technology (IT). 
 
 💡 Throughout the course, you'll gain knowledge about various aspects of IT, including computer hardware, the Internet, computer software, troubleshooting, and customer service. The topics covered in this course provide a comprehensive overview of what you can expect in the rest of the certificate program.
