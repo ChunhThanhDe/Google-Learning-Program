@@ -1,4 +1,4 @@
-# 🎓 Course: The Bits and Bytes of Computer Networking by Google
+# 🎓 Course 2 The Bits and Bytes of Computer Networking by Google
 
 ## About this Course
 

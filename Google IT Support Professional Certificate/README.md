@@ -1,4 +1,4 @@
-# Course Overview - Google IT Support Professional Certificate
+# Google IT Support Professional Certificate
 
 ## What you'll learn
 - Gain skills required to succeed in an entry-level IT job 💼
