@@ -1,6 +1,6 @@
 # 🌐 Exploring the Network Layer 🌐
 
-## Module 2: Network Layer
+## Network Layer
 
 In the second module of this course, we will dive deeper into the network layer and explore its various aspects. By the end of this module, you will have a comprehensive understanding of key concepts and protocols related to the network layer.
 

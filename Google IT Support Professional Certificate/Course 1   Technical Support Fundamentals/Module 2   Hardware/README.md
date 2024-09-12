@@ -1,4 +1,4 @@
-# Module 2: Inside a Computer
+# Inside a Computer
 
 💻🔧 In the second module of this course, we'll explore what's inside a computer. We'll dive into the fascinating world of hardware components—the different pieces that make up a computer. 
 

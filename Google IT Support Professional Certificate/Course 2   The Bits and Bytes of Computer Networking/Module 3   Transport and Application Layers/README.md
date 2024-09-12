@@ -1,4 +1,4 @@
-## 📡 Module 3: Transport and Application Layers
+## 📡 Transport and Application Layers
 
 ### 🎯 Learning Objectives
 

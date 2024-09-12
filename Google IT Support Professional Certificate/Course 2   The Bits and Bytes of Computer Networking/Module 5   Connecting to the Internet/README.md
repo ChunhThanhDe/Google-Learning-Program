@@ -1,4 +1,4 @@
-### **Module 5: Internet Connectivity and Networking**
+### **Internet Connectivity and Networking**
 
 🌐 In the fifth module of this course, we will delve into the captivating history of the Internet, its evolution, and its present-day functioning. We will explore the diverse methods of connecting to the Internet, including cables, wireless connections, cellular networks, and high-speed fiber connections. 
 
