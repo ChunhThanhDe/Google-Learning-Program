@@ -1,2 +1,0 @@
-# Google Project Manager Cerificate
-
