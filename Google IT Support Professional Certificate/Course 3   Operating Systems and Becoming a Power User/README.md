@@ -1,4 +1,4 @@
-# Operating Systems and You: Becoming a Power User 🖥️
+# Course 3 Operating Systems and You: Becoming a Power User 🖥️
 
 ## About this Course 📚
 

@@ -1,4 +1,4 @@
-### IT Security: Defense Against the Digital Dark Arts 🔐💻
+### Course 5 IT Security: Defense Against the Digital Dark Arts 🔐💻
 
 #### Course Overview
 
