@@ -1,7 +1,3 @@
-Here’s a scientific summary of **Remote Connections in Windows** based on the provided transcript, enhanced with emojis for a more engaging presentation in Markdown format.
-
----
-
 ## 🌐 **Remote Connections in Windows**
 
 ### 🔐 **SSH (Secure Shell)**
