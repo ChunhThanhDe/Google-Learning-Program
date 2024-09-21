@@ -1,12 +1,12 @@
 # Google IT Support Professional Certificate
 
-#### Hi I'm Chung Nguyen Thanh, a passionate developer from Vietnam 🌏 🇻🇳.
+Hi I'm Chung Nguyen Thanh, a passionate developer from Vietnam 🌏 🇻🇳.
 
-I am a mobile and backend developer with extensive experience in Flutter and firmware development for AOSP Android TV set-top box products. 🌟📱 After earning the **Google IT Support Professional Certificate**, I contribute to the community by creating a comprehensive notebook repository. This resource summarizes the certificate's knowledge and supports fellow developers and the broader community. 🤝📚💡
+🌟📱 After earning the **Google IT Support Professional Certificate**, I contribute to the community by creating a comprehensive notebook repository. This resource summarizes the certificate's knowledge and supports fellow developers and the broader community. 🤝📚💡
 
-<br>
+<be>
 
-![Google IT Support Professional Certificate](Google_it_support.png)
+[![Google IT Support Professional Certificate](Google_it_support.png)](https://www.coursera.org/learner/chunhthanhde )
 
 ## What you'll learn
 - Gain skills required to succeed in an entry-level IT job 💼
