@@ -67,7 +67,7 @@ If you find this repository useful, please consider giving it a star! Your feedb
 <!-- Feedback -->
 | Name | Date | Feedback |
 |---|---|---|
-|[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=174b59f190c6673c5d4dd4e0eaf9004d337b31fe&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|9/21/2024, 12:17:14 PM (UTC+7)|Hi! Is this Feedback active 😂😂 ?|
+|[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=174b59f190c6673c5d4dd4e0eaf9004d337b31fe&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|9/21/2024, 12:24:07 PM (UTC+7)|Welcome, looking forward to receiving your Feedback! 😗😗😗|
 <!-- /Feedback -->
 
 ## License 📜
