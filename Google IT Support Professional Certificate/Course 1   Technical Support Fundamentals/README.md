@@ -1,4 +1,4 @@
-# 🎓🖥️ Welcome to the First Course in the Series!
+# Course 1 Welcome to the First Course in the Series! 🎓🖥️
 
 This course is designed to prepare you for a role as an entry-level IT Support Specialist. In this course, we'll delve into the exciting world of Information Technology (IT).
 
