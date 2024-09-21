@@ -4,51 +4,63 @@
 
 ## Introduction 📖
 
-Welcome to my GitHub repository, the **Google Learning Program**. This repository is dedicated to storing documentation and resources related to Google's courses and certifications. It serves as a valuable resource for individuals interested in learning and acquiring knowledge and skills in the field of technology and software development.
+Welcome to the Google Learning Program GitHub repository! This space is dedicated to storing documentation and resources related to Google's courses and certifications. It serves as a valuable resource for individuals interested in gaining knowledge and skills in technology and software development, as well as personal and professional development.
+
+##### If you would like to get in touch, please email me at: **chunhthanhde.dev@gmail.com**
+
+![GitHub stars](https://img.shields.io/github/stars/chunhthanhde/Google-Learning-Program?style=social)
+![GitHub forks](https://img.shields.io/github/forks/chunhthanhde/Google-Learning-Program?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/chunhthanhde/Google-Learning-Program?style=social)
+
+<a href="https://www.linkedin.com/in/chunhthanhde/">
+  <img src="https://img.shields.io/badge/Support-Recommend%2FEndorse%20me%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Support me on LinkedIn" />
+</a>
+<br>
+<a href="https://x.com/ChunhThanhDe">
+  <img src="https://img.shields.io/badge/Support-Recommend%2FEndorse%20me%20on%20X Twitter-black?style=for-the-badge&logo=x" alt="Support me on X - Twitter" />
+</a>
+
+## Purpose 🎯
+
+The repository provides a centralized location for exploring Google's learning programs. Whether you're a beginner or an experienced professional, you'll find educational materials to help you achieve your goals.
 
 ## Content 📚
 
-In this repository, you will find a wide range of materials related to Google's courses and certifications. Here are some key contents:
+Here are some key contents available in this repository:
 
 - 📚 Lectures, slides, and study materials covering various topics and domains offered by Google.
 - 📑 Complete text content of the courses, including detailed explanations, examples, and exercises.
 - 🔍 Supplementary resources such as code samples, project templates, and reference materials to support your learning journey.
 
-## Purpose 🎯
-
-The purpose of this repository is to provide a centralized and accessible location for individuals interested in exploring and studying Google's learning programs. Whether you are a beginner looking to start your journey in technology or an experienced professional aiming to enhance your skills, this repository offers a wealth of educational materials to help you achieve your goals.
-
-# Coursera and Google Honor Code Compliance 📜🌟 
-
-This repository is designed to respect the Coursera Honor Code and the Google Honor Code. It will not share any solutions or answers to quizzes and tasks within the certification course. The purpose of this repository is to consolidate and organize the knowledge gained from the course materials, with the goal of facilitating and enhancing the learning experience for those pursuing the Google certification.
-
 ## Commitment to Academic Integrity 🎓
 
-We strongly believe in the importance of academic integrity. As such, we make the following commitments:
+We believe in the importance of academic integrity and make the following commitments:
 
-1. **No Unauthorized Sharing of Resources** 🙅‍♂️: We will not share any information about or solutions to homework, quizzes, exams, projects, and other assessments, except to the extent an assessment explicitly permits sharing solutions. This includes solutions written by you, other learners, outside resources, or any solutions provided by the course staff or others.
+1. **No Unauthorized Sharing of Resources** 🙅‍♂️: We will not share information or solutions to homework, quizzes, exams, projects, and other assessments, except as explicitly permitted.
+   
+2. **Knowledge Consolidation** 🧠: This repository aims to provide a structured way to review and reinforce concepts learned throughout the certification course. The materials are intended to supplement your learning, not replace official course content or assessments.
+   
+3. **Respect for Course Policies** 🤝: We acknowledge and respect the Coursera Honor Code and the Google Honor Code. Any actions that violate these policies are strictly prohibited.
 
-2. **Knowledge Consolidation** 🧠: This repository aims to provide a structured way to review and reinforce the concepts learned throughout the certification course. The materials here are intended to supplement your own learning and understanding, not to replace the official course content or assessments.
+## Coursera and Google Honor Code Compliance 📜🌟
 
-3. **Respect for Course Policies** 🤝: We acknowledge and respect the Coursera Honor Code and the Google Honor Code. Any actions that violate these policies are strictly prohibited within this repository.
+This repository is designed to respect both the Coursera and Google Honor Codes. It will not share solutions or answers to quizzes and tasks within the certification course. The goal is to consolidate knowledge gained from course materials to enhance the learning experience.
 
 ## Contribution Guidelines 🤝
 
-If you would like to contribute to this repository, please ensure that your contributions align with the principles of academic integrity and the Honor Codes mentioned above. We welcome ideas, summaries, and other non-solution-based resources that can enhance the learning experience for everyone.
+Contributions that align with the principles of academic integrity and the Honor Codes are welcome. We encourage ideas, summaries, and other non-solution-based resources to enhance the learning experience for everyone.
 
-Thank you for your understanding and cooperation in maintaining the integrity of the certification course. 🙏
+### How to Contribute
 
-## Contributing 🤝
+1. **Fork the repository**: Create a copy of the repository under your own GitHub account.
+2. **Make your changes**: Edit files or add new content as needed.
+3. **Submit a Pull Request**: Once you're satisfied with your changes, submit a pull request to merge your contributions back into the main repository.
 
-I welcome contributions from the community to enrich the content of this repository. If you have additional resources, improvements, or corrections to suggest, feel free to submit a pull request. Together, we can make this repository a comprehensive and valuable resource for learners worldwide.
+Feel free to check the repository at [Google Learning Program](https://github.com/ChunhThanhDe/Google-Learning-Program).
 
-## Get Started 🚀
+## Star and Feedback 🌟📝
 
-To get started with the Google Learning Program repository, simply navigate to the relevant folders or files that interest you. You can download the materials, explore the content, and leverage them to enhance your knowledge and skills.
-
-## Feedback 📝
-
-If you have any feedback, suggestions, or questions regarding the Google Learning Program repository, please feel free to open an issue. Your input is highly appreciated and will contribute to the continuous improvement of this repository.
+If you find this repository useful, please consider giving it a star! Your feedback is also invaluable. If you have suggestions or questions, don't hesitate to open an issue. Your input is highly appreciated and will contribute to the continuous improvement of this repository.
 
 ## License 📜
 
