@@ -12,13 +12,9 @@ Welcome to the Google Learning Program GitHub repository! This space is dedicate
 ![GitHub forks](https://img.shields.io/github/forks/chunhthanhde/Google-Learning-Program?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/chunhthanhde/Google-Learning-Program?style=social)
 
-<a href="https://www.linkedin.com/in/chunhthanhde/">
-  <img src="https://img.shields.io/badge/Support-Recommend%2FEndorse%20me%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Support me on LinkedIn" />
-</a>
-<br>
-<a href="https://x.com/ChunhThanhDe">
-  <img src="https://img.shields.io/badge/Support-Recommend%2FEndorse%20me%20on%20X Twitter-black?style=for-the-badge&logo=x" alt="Support me on X - Twitter" />
-</a>
+[![Support me on LinkedIn](https://img.shields.io/badge/Support-Recommend%2FEndorse%20me%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chunhthanhde/)
+
+[![Support me on X (Twitter)](https://img.shields.io/badge/Support-Recommend%2FEndorse%20me%20on%20X%20Twitter-black?style=for-the-badge&logo=x)](https://x.com/ChunhThanhDe)
 
 ## Purpose 🎯
 
@@ -67,7 +63,7 @@ If you find this repository useful, please consider giving it a star! Your feedb
 <!-- Feedback -->
 | Name | Date | Feedback |
 |---|---|---|
-|[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=174b59f190c6673c5d4dd4e0eaf9004d337b31fe&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|9/21/2024, 12:17:14 PM (UTC+7)|Hi! Is this Feedback active 😂😂 ?|
+|[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=174b59f190c6673c5d4dd4e0eaf9004d337b31fe&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|9/21/2024, 12:24:07 PM (UTC+7)|Welcome, looking forward to receiving your Feedback! 😗😗😗|
 <!-- /Feedback -->
 
 ## License 📜
