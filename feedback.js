@@ -2,7 +2,7 @@ module.exports = async ({github, context}) => {
   const query = `query($owner:String!, $name:String!, $issue_number:Int!) {
     repository(owner:$owner, name:$name){
       issue(number:$issue_number) {
-        comments(first:5,orderBy:{direction:DESC, field:UPDATED_AT}) {
+        comments(first:10,orderBy:{direction:DESC, field:UPDATED_AT}) {
           nodes {
             author {
               avatarUrl(size: 24)
@@ -33,7 +33,7 @@ module.exports = async ({github, context}) => {
       let formattedDate = date.toLocaleString('en-US', { timeZone: 'Asia/Ho_Chi_Minh' });
 
       return `${prev}|[<img src="${curr.author.avatarUrl}" alt="${curr.author.login}" width="24" />  ${curr.author.login}](${curr.author.url})|${formattedDate} (UTC+7)|${sanitizedText}|\n`;
-    }, "| Name | Date | Message |\n|---|---|---|\n");
+    }, "| Name | Date | Feedback |\n|---|---|---|\n");
   };
 
   const fileSystem = require('fs');

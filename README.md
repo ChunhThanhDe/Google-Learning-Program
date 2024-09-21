@@ -62,9 +62,10 @@ Feel free to check the repository at [Google Learning Program](https://github.co
 
 If you find this repository useful, please consider giving it a star! Your feedback is also invaluable. If you have suggestions or questions, don't hesitate to open an issue. Your input is highly appreciated and will contribute to the continuous improvement of this repository.
 
+[**Send a FeedBack**](https://github.com/ChunhThanhDe/Google-Learning-Program/issues/1#issuecomment-new)
 
 <!-- Feedback -->
-| Name | Date | Message |
+| Name | Date | Feedback |
 |---|---|---|
 
 <!-- /Feedback -->
