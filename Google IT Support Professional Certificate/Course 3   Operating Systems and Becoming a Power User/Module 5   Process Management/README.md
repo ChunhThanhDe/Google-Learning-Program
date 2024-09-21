@@ -1,4 +1,4 @@
-### Module 5 Process Management 🖥️🔧
+### Process Management 🖥️🔧
 
 In this module, we'll delve into process management, a key skill for IT Support Specialists. You'll learn to handle processes effectively on both Windows and Linux systems, including starting, terminating, and troubleshooting them.
 
