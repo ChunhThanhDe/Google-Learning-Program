@@ -1,0 +1,28 @@
+on:
+  issue_comment:
+    types: [created, edited, deleted]
+
+name: feedback
+
+jobs:
+  update_feedback:
+    name: Update feedback
+    if: ${{ github.event.issue.title == 'Feedback' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Update feedback from comments
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const feedback = require('./feedback.js')
+            feedback({github, context})
+      - name: Push feedback update
+        run: |
+          git config --global user.name 'Github Actions'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m ':sparkles: update feedback' || echo "No changes to commit"
+          git push

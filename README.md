@@ -1,6 +1,6 @@
 # **Google Learning Program** 📚
 
-![Google Learning Program Logo](https://lh3.googleusercontent.com/93MoBO_x0QD94iDjoHGHUWFfmDBWJM9x2z3wRwgjt2QwAiq2fNRb6gO0c7oaS6NWCDcevq34AaBvXcBlXdLz3jtFnAGAMZ-08hj4YP7uhNYlJqYqoA)
+![Google Learning Program Logo](goole-learning.jpg)
 
 ## Introduction 📖
 
@@ -61,6 +61,13 @@ Feel free to check the repository at [Google Learning Program](https://github.co
 ## Star and Feedback 🌟📝
 
 If you find this repository useful, please consider giving it a star! Your feedback is also invaluable. If you have suggestions or questions, don't hesitate to open an issue. Your input is highly appreciated and will contribute to the continuous improvement of this repository.
+
+
+<!-- Feedback -->
+| Name | Date | Message |
+|---|---|---|
+
+<!-- /Feedback -->
 
 ## License 📜
 
