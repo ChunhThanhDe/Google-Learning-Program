@@ -1,4 +1,4 @@
-# 🎓 Course: Networking - IT Support Professional Certificate
+# 🎓 Networking - IT Support Professional Certificate
 
 ## Welcome
 
