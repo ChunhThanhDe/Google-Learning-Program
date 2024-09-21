@@ -12,13 +12,9 @@ Welcome to the Google Learning Program GitHub repository! This space is dedicate
 ![GitHub forks](https://img.shields.io/github/forks/chunhthanhde/Google-Learning-Program?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/chunhthanhde/Google-Learning-Program?style=social)
 
-<a href="https://www.linkedin.com/in/chunhthanhde/">
-  <img src="https://img.shields.io/badge/Support-Recommend%2FEndorse%20me%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Support me on LinkedIn" />
-</a>
-<br>
-<a href="https://x.com/ChunhThanhDe">
-  <img src="https://img.shields.io/badge/Support-Recommend%2FEndorse%20me%20on%20X Twitter-black?style=for-the-badge&logo=x" alt="Support me on X - Twitter" />
-</a>
+[![Support me on LinkedIn](https://img.shields.io/badge/Support-Recommend%2FEndorse%20me%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chunhthanhde/)
+
+[![Support me on X (Twitter)](https://img.shields.io/badge/Support-Recommend%2FEndorse%20me%20on%20X%20Twitter-black?style=for-the-badge&logo=x)](https://x.com/ChunhThanhDe)
 
 ## Purpose 🎯
 
