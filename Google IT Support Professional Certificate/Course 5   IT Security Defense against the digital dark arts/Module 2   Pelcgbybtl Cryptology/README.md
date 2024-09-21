@@ -1,4 +1,4 @@
-### Cryptology Overview 🔐
+## Cryptology Overview 🔐
 
 In this module, we will delve into **cryptology**, the science of securing information through encryption. This section covers essential concepts and practices in cryptography, including various algorithms and their applications.
 
